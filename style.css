@@ -68,7 +68,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   position: fixed;
-  width: 1134px;
+  width: 100%;
   top: 0;
   padding: 36px 0;
   z-index: 100;
